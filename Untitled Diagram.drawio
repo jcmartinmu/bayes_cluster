@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T06:49:43.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9Da0bjhRJJB2YpFy4yVl" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T07:18:35.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xisG4JFX1ZSE_NOCzU3o" version="21.7.4" type="github">
   <diagram name="Page-1" id="G6GUsbN-d_qLUJchrnLp">
-    <mxGraphModel dx="2415" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,52 +8,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-1" value="FLEX_FRONT_CERV_FLEXION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="40" width="200" height="60" as="geometry" />
+          <mxGeometry x="345" y="30" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMchq-5pGnVd5XhftB-5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdecw5hjube7fnArYXz3-6" target="bdecw5hjube7fnArYXz3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-6" value="ROTA_CERV_DERECHA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="130" width="200" height="60" as="geometry" />
+          <mxGeometry x="345" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-7" value="FLEX_FRONT_CERV_EXTENSION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="168" y="330" width="200" height="60" as="geometry" />
+          <mxGeometry x="233" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMchq-5pGnVd5XhftB-5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdecw5hjube7fnArYXz3-9" target="bdecw5hjube7fnArYXz3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMchq-5pGnVd5XhftB-5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bdecw5hjube7fnArYXz3-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="305" as="sourcePoint" />
-            <mxPoint x="715" y="325" as="targetPoint" />
+            <mxPoint x="445" y="295" as="sourcePoint" />
+            <mxPoint x="780" y="315" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="548" y="305" />
-              <mxPoint x="715" y="306" />
+              <mxPoint x="613" y="295" />
+              <mxPoint x="780" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-9" value="DISTANCIA_INTERMALEOLAR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="220" width="200" height="60" as="geometry" />
+          <mxGeometry x="345" y="210" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-11" value="FLEX_LAT_CERV_DERECHA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="330" width="200" height="60" as="geometry" />
+          <mxGeometry x="10" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-12" value="SCHOBERT_MOD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="392" y="330" width="200" height="60" as="geometry" />
+          <mxGeometry x="457" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdecw5hjube7fnArYXz3-13" value="FLEX_LUMBAR_LAT_IZQUIERDA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="615" y="330" width="200" height="60" as="geometry" />
+          <mxGeometry x="680" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMchq-5pGnVd5XhftB-5-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="492" y="307" as="sourcePoint" />
-            <mxPoint x="492" y="330" as="targetPoint" />
+            <mxPoint x="557" y="297" as="sourcePoint" />
+            <mxPoint x="557" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pMchq-5pGnVd5XhftB-5-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="307" as="sourcePoint" />
-            <mxPoint x="269" y="330" as="targetPoint" />
+            <mxPoint x="334" y="297" as="sourcePoint" />
+            <mxPoint x="334" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
